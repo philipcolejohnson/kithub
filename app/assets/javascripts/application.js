@@ -14,8 +14,7 @@
 //= require jquery_ujs
 //= require jquery-ui
 
-//= require simplemde
-//= require codemirror/tablist
+
 
 //= require lodash.min
 
