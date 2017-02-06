@@ -1,6 +1,10 @@
 # Welcome to KitHub
 
 Check out the live demo [here](http://thekithub.herokuapp.com/)
+Sign in with
+
+* username: phil@gmail.com
+* password: password123
 
 Gradebook overview:
 
