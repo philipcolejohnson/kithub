@@ -1,6 +1,7 @@
 # Welcome to KitHub
 
-Check out the live demo [here](http://thekithub.herokuapp.com/)
+### Check out the live demo [here](http://thekithub.herokuapp.com/)
+
 Sign in with
 
 * username: phil@gmail.com
